@@ -1,1 +1,1 @@
-# arduino-motor-passo
+Uma montagem simples de Arduino com motor de passo
